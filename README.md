@@ -20,13 +20,13 @@ The project demonstrates the complete machine learning pipeline including data p
 3. Dataset
 
 The dataset contains synthetic housing data with the following features: 
-      Feature          	   Description
-      area	               Size of the house (sq ft)
-      crime_rate           Crime level in the neighborhood
-      school_rating    	   Rating of nearby schools
+      Feature                Description
+      area	                 Size of the house (sq ft)
+      crime_rate             Crime level in the neighborhood
+      school_rating    	     Rating of nearby schools
       garage	           Number of garage spaces
       basement	           Basement area
-      price	               Target variable (house price)
+      price	                 Target variable (house price)
 
 
 4. Technologies Used
